@@ -1,0 +1,6 @@
+{
+  "name": "Observador Scraper",
+  "description": "A research tool for searching and exporting articles from Observador.pt with date filtering and CSV export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
