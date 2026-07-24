@@ -34,3 +34,5 @@ This project is licensed under the **Creative Commons Attribution-NonCommercial 
 - **Share & Adapt**: You are free to copy, redistribute, remix, transform, and build upon the material in any medium or format under these terms.
 
 For the full legal code, see the [LICENSE](./LICENSE) file or visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+
+- **To cite** Dalla Costa Montanari, S. (2026). observador-article-hunter. GitHub repository. [https://github.com/soniadcm89/rr-article-hunter](https://github.com/soniadcm89/observador-article-hunter)
