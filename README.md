@@ -24,15 +24,11 @@ A research tool designed to search, analyze, filter, and export articles from th
 
 ## License
 
-This project is licensed under the **Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)**.
+This project uses a dual licensing model:
 
-[![CC BY-NC 4.0](https://licensebuttons.net/l/by-nc/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc/4.0/)
+- **Source Code & Application**: Licensed under the [MIT License](./LICENSE). You are free to use, modify, distribute, and commercialize the software codebase.
+- **Documentation & Content**: Licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License (CC BY-NC 4.0)](https://creativecommons.org/licenses/by-nc/4.0/). Documentation files (e.g., `DOCUMENTATION.md`, `README.md`, `CHAT_HISTORY.md`, `CHAT_CONVERSATION.md`) are free to share and adapt for non-commercial purposes with appropriate attribution.
 
-### Summary of CC BY-NC 4.0 Terms:
-- **Attribution**: You must give appropriate credit, provide a link to the license, and indicate if changes were made.
-- **NonCommercial**: You may not use the material for commercial purposes.
-- **Share & Adapt**: You are free to copy, redistribute, remix, transform, and build upon the material in any medium or format under these terms.
-
-For the full legal code, see the [LICENSE](./LICENSE) file or visit [https://creativecommons.org/licenses/by-nc/4.0/](https://creativecommons.org/licenses/by-nc/4.0/).
+For full license terms, see the [LICENSE](./LICENSE) file.
 
 - **To cite** Dalla Costa Montanari, S. (2026). observador-article-hunter. GitHub repository. [https://github.com/soniadcm89/rr-article-hunter](https://github.com/soniadcm89/observador-article-hunter)
